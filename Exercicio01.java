@@ -6,8 +6,9 @@ public class Exercicio01 {
 		
 		int valor01 = 20;
 		int valor02 = 15;
+		int total = valor01 + valor02;
 		
-		System.out.println("SOMA: " + (valor01 + valor02));
+		System.out.println("SOMA: " + total);
 
 	}
 
